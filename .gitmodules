@@ -1,0 +1,3 @@
+[submodule "webiste/themes/hugo-hero-theme"]
+	path = webiste/themes/hugo-hero-theme
+	url = https://github.com/zerostaticthemes/hugo-hero-theme.git
